@@ -13,7 +13,6 @@ Once the connection to AX is taken care of. Play around with the New-AXSelectStm
 
 * Contain Basic Functions to work with AX 2012 through business connector.
 * Key functions: Get-AXObject, New-AXSelectStmt
-* Ver. 1.0.0.0 
 
 ### Pre-requisite ###
 * Put the Microsoft.Dynamics.BusinessConnectorNet.dll in the same folder where you store the module
