@@ -1,7 +1,7 @@
 $Global:logOffAXFailed = "-- Failed to log off AX Session --"
 #$Global:defaultCompany = "usmf"
 $Global:tempPath = "C:\Temp"
-$Global:axcName = "\USR_AX2012_PROD.axc"
+$Global:axcName = "\AX2012.axc"
 $Global:dllName = "\Microsoft.Dynamics.BusinessConnectorNet.dll"
 
 # Setup script path
