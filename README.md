@@ -17,11 +17,8 @@ Once the connection to AX is taken care of. Play around with the New-AXSelectStm
 ### Pre-requisite ###
 * Put the Microsoft.Dynamics.BusinessConnectorNet.dll in the same folder where you store the module
 * Put a valid .axc file (AX2012.axc) in the same folder where you store the module
+* C:\Temp folder is available
 * Must run with 32bit version of Powershell
-
-### Installation ###
-Put the .psd1 and .psm1 into a folder named "AX2009PS". Put also the businessConnector dll and a valid .axc in the same folder.
-Then copy to folder to one of the path listed under $env:PSModulePath.
 
 ### Questions or comments? ###
 
